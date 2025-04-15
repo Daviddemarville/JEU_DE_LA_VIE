@@ -29,14 +29,6 @@ Livrer une première version fonctionnelle de la page d’accueil avec navigatio
 
 ---
 
-## 📎 Fichier Excel
-
-Le tableau est aussi dispo en version Excel :
-
-📥 [Télécharger Tableau Scrum Excel](./Tableau_Scrum_Exemple.xlsx)
-
----
-
 ## 💡 À faire pour le prochain Sprint
 - [ ] Ajouter le footer
 - [ ] Créer le formulaire de contact
